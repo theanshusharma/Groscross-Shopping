@@ -1,0 +1,7 @@
+flutter_application_id:
+  android:
+    id: "me.theanshusharma.grocery"
+    name: "Groscross"
+  ios:
+    id: "me.groscross.live"
+    name: "Groscross"

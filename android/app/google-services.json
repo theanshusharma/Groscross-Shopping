@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "503091402260",
+    "firebase_url": "https://grocery-382013-default-rtdb.firebaseio.com",
+    "project_id": "grocery-382013",
+    "storage_bucket": "grocery-382013.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503091402260:android:72fa259f1c44dc25013901",
+        "android_client_info": {
+          "package_name": "me.theanshusharma.gcrider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503091402260-qmtkt6atlfm15lrrqae07237leesj98b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "me.theanshusharma.gcrider",
+            "certificate_hash": "b7d2c0de9be82bd56092c666e99ddac184f0405a"
+          }
+        },
+        {
+          "client_id": "503091402260-herr43jo2e8r76e3rt1gohgt7lrlui2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRqgTt4oab7MIfObBH1rmrR8ZYfAbEFoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503091402260-avbf7su7lohgulnj01d37b3bsjgs4avk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503091402260:android:5a99794662299dbd013901",
+        "android_client_info": {
+          "package_name": "me.theanshusharma.gcvendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503091402260-lgdpq8pb57f4j1sdth2l5kcun10v13ro.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "me.theanshusharma.gcvendor",
+            "certificate_hash": "b7d2c0de9be82bd56092c666e99ddac184f0405a"
+          }
+        },
+        {
+          "client_id": "503091402260-herr43jo2e8r76e3rt1gohgt7lrlui2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRqgTt4oab7MIfObBH1rmrR8ZYfAbEFoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503091402260-avbf7su7lohgulnj01d37b3bsjgs4avk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503091402260:android:0c92c09e92d7d121013901",
+        "android_client_info": {
+          "package_name": "me.theanshusharma.grocery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503091402260-42ds6jcfkocn1s9qh6ise0049f9iv0ns.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "me.theanshusharma.grocery",
+            "certificate_hash": "35150e6c67d61e4b723e5ab22c0f85728ae5b7f7"
+          }
+        },
+        {
+          "client_id": "503091402260-ujch6bjdr1ipbritvss5fb5u483r6v7v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "me.theanshusharma.grocery",
+            "certificate_hash": "b7d2c0de9be82bd56092c666e99ddac184f0405a"
+          }
+        },
+        {
+          "client_id": "503091402260-herr43jo2e8r76e3rt1gohgt7lrlui2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRqgTt4oab7MIfObBH1rmrR8ZYfAbEFoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503091402260-avbf7su7lohgulnj01d37b3bsjgs4avk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
